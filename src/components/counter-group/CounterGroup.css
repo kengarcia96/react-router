@@ -1,0 +1,30 @@
+.counter-group{
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 100vh;
+    margin-top: 20px;
+}
+ 
+.counter-group input {
+    font-size: 1.5rem;
+}
+ 
+.counter-group button {
+    font-size: 1.5rem;
+}
+ 
+.regenerate {
+    display: flex;
+    flex-direction: column;
+    min-height: 50px
+}
+ 
+.regenerate-input {
+    margin-bottom: 10px
+}
+ 
+.regenerate span {
+    color: green;
+}
